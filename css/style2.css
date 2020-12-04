@@ -53,8 +53,10 @@ h4 {
   font-family: "Helvetica", Arial, sans-serif;
   justify-content: center;
   color: #fff;
-  font-size: 28px;
+  font-size: 20px;
   font-weight: lighter;
+  text-align: center;
+  padding: 0px 120px;
 }
 
 
@@ -1829,8 +1831,9 @@ width: 250px;
   }
 
   #services h4 {
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
+    padding: 10px 20px;
   }
 
   #services {
@@ -2066,8 +2069,9 @@ width: 250px;
     }
 
     #services h4 {
-      font-size: 20px;
+      font-size: 18px;
       text-align: center;
+      padding: 10px 20px;
     }
   
     #contact {
