@@ -3,7 +3,7 @@
   position: fixed;
   top: 25px;
   right: 20px;
-  z-index: 1;
+  z-index: 15;
 }
 
 .menu-wrap .toggler {
@@ -49,7 +49,7 @@
 .menu-wrap .hamburger > div::after {
   content: '';
   position: absolute;
-  z-index: 1;
+  z-index: 15;
   top: -10px;
   width: 100%;
   height: 2px;
